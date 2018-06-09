@@ -1,0 +1,6 @@
+docs:
+  build: .
+  ports:
+    - "80:4567"
+  volumes:
+    - ".:/app/source"  
