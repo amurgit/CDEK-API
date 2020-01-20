@@ -2,7 +2,7 @@
 
 Slate style documentation for MicroServices. 
 
-* [CDEK Chinese API reference](http://47.104.142.208)
+* [CDEK Chinese API reference](http://api-help.cdek-express.cn)
 
 ## To run the installation: 
 
